@@ -37,3 +37,7 @@ p {
 form {
     height: fit-content;
 }
+
+mat-icon {
+    opacity: .8
+}
